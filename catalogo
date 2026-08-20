@@ -1,1 +1,21 @@
+﻿using ICDIA_2026_3_ArqPatronesSoftware_Eq0.Handlers;
+using ICDIA_2026_3_ArqPatronesSoftware_Eq0.Models;
 
+namespace ICDIA_2026_3_ArqPatronesSoftware_Eq0;
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+
+        //UsoClasePersona1 programa;
+        //programa = new UsoClasePersona1();
+
+        new UsoClasePersona2();
+
+
+
+
+    }
+}
